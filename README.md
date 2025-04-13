@@ -1,9 +1,9 @@
 # Amazon.com ~ Clone
 
-## Overview
+## Overviews
 Amazon.com clone is a simple clone of famous e-commerce website Amazon.com built using HTML and CSS. It aims to replicate the design and layout of Amazon's main page while ensuring responsiveness across different devices. The project provides users with an interactive and visually appealing shopping experience. The homepage consists of a navigation bar, a search bar, a shopping cart icon, product categories, and a footer section. By utilizing modern web technologies, this project demonstrates the fundamental concepts of front-end development and UI/UX design.
 
-## Features
+## Feature
 - **Responsive Navigation Bar**: Includes a search bar, sign-in section, and cart icon.
 - **Hero Section**: Displays a featured banner.
 - **Product Categories**: Various shopping categories with images and links.
